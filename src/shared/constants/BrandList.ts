@@ -38,15 +38,39 @@ export const BrandList: Brand[] = [
     name: "SImple",
   },
   {
-    id: 7,
+    id: 10,
     name: "Scheker",
   },
   {
-    id: 8,
+    id: 11,
     name: "Jordan",
   },
   {
-    id: 9,
+    id: 12,
+    name: "SImple",
+  },
+  {
+    id: 13,
+    name: "Scheker",
+  },
+  {
+    id: 14,
+    name: "Jordan",
+  },
+  {
+    id: 15,
+    name: "SImple",
+  },
+  {
+    id: 16,
+    name: "Scheker",
+  },
+  {
+    id: 17,
+    name: "Jordan",
+  },
+  {
+    id: 18,
     name: "SImple",
   },
 ];
