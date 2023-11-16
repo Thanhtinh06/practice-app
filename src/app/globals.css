@@ -6,3 +6,11 @@
 .tag-active {
     @apply bg-black text-white;
 }
+html {
+    font-family: var(--font-rale);
+    font-weight: 300;
+}
+
+h1 {
+    font-family: var(--font-roboto-mono);
+}

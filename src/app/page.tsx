@@ -1,5 +1,9 @@
-import Navbar from "@/shared/components/nav-bar/Navbar";
+import NavCarosel from "@/shared/feartures/nav-carosel/NavCarosel";
 
 export default function Home() {
-  return <Navbar />;
+  return (
+    <div className="w-screen">
+      <NavCarosel />
+    </div>
+  );
 }
